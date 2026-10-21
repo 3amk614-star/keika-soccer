@@ -1,1 +1,1 @@
-window.KEIKA_BG_CONFIG = { photos: ["photo-00.jpg", "photo-01.jpg", "photo-02.jpg", "photo-03.jpg", "photo-04.jpg", "photo-05.jpg", "photo-06.jpg", "photo-07.jpg"] };
+window.KEIKA_BG_CONFIG = { photos: ["photo-00.jpg", "photo-01.jpg", "photo-02.jpg", "photo-03.jpg", "photo-04.jpg", "photo-05.jpg", "photo-06.jpg", "photo-07.jpg", "photo-08.jpg", "photo-09.jpg", "photo-10.jpg", "photo-11.jpg"] };
